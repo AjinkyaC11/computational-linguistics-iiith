@@ -1,0 +1,52 @@
+body{
+	font-size: 20px;
+	  background-color:#012943 ;
+
+}
+
+.main{
+	text-align: center;
+	width: 80%;
+	height:auto;
+	 background-color: rgb(204, 238, 238);
+	margin: 0 auto;
+	
+}
+.sub{
+	padding-top: 21px;
+	width: 89%;
+	height:910px;
+	background-color: white;
+	align-content: center;
+
+}
+#im{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:79%;
+
+
+}
+#head{
+	padding:11px;
+	text-align: left;
+	font-size: 49px;
+	font-family: serif;
+}
+#id{
+	font-family: serif;
+}
+input{
+	width:61px;
+}
+option{
+	text-align: center;
+}
+
+table,tr,td{
+	align-content: center;
+	border: 1px solid black;
+	border-collapse: collapse; 
+	padding: 10px;
+}
